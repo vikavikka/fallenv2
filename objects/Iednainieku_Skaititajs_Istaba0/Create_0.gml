@@ -1,0 +1,1 @@
+iednainiekuSkaits=5

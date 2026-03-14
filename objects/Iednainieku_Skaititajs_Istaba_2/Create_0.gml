@@ -1,0 +1,1 @@
+Ist2Iedmainieki=global.Ist2Iedmainieki

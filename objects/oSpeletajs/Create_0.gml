@@ -1,0 +1,9 @@
+gravitacija=0.3;
+slid=0;
+magazina_lodes=global.LodesMagazinamax;
+x_atrums=0;
+y_atrums=0;
+iesanas_atrums=7;
+Skaits=0;
+slidesanas_laiks=130 ;//slīdēšanas laiks jeb cik x vertibas slides
+parlades_laiks=global.parlades_laiks
